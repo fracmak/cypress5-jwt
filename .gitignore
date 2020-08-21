@@ -1,0 +1,15 @@
+node_modules
+client
+cypress/screenshots
+cypress/videos
+cypress-coverage
+dist
+coverage
+*.log
+.idea
+.nyc_output
+.env
+
+.DS_Store
+
+/.vscode/
